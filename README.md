@@ -28,7 +28,7 @@ This functions displays a sorted Skip list with random levels of every node.
 The complexity of a skip list is complicated due to its probabilistic nature. 
 The Worst Case time complexity of different opertions are:
 
-Average Case:
+### Average Case:
 
 Indexing - O(log(n)),
 
@@ -38,7 +38,7 @@ Search   - O(log(n)),
 
 Deletion - O(log(n))
 
-Worst case:
+### Worst case:
 
 Indexing - O(n),
 
@@ -72,6 +72,6 @@ If the node is not present in the list the function will return False.
 
 ## Group Members:
 
-	Muhammad Arsal		18B-115-CS(A)
-	Muhammad Osama		18B-003-CS(A)
+### Muhammad Arsal		18B-115-CS(A)
+### Muhammad Osama		18B-003-CS(A)
 	
